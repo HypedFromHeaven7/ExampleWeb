@@ -1,1 +1,12 @@
+h1{
+    color: purple;
+    font-size: 100px
+}
 
+body{
+    background-image: url("./assets/herr-tummay.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover
+}
